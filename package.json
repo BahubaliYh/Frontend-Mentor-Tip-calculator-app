@@ -1,0 +1,15 @@
+{
+  "name": "tip-calculator-app-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://github.com/BahubaliYh/Frontend-Mentor-Tip-calculator-app"
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
